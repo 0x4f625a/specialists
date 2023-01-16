@@ -88,7 +88,7 @@
 "url": "https://github.com/Jax-PF2/spc1ist5",
   "manifest": "https://raw.githubusercontent.com/Jax-PF2/spc1ist5/master/module.json",
   "download": "https://github.com/Jax-PF2/spc1ist5/archive/refs/heads/main.zip",
-  "id": "jam-and-jax-undead-templates",
+  "id": "jam-and-jax-npc-specialists",
   "authors": [
     {
       "name": "Jamzilla (Jamie Trollop) and Jax (Paul Steen)",
@@ -101,14 +101,14 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "4.3.4",
-          "verified": "4.3.4"
+          "minimum": "4.6.7",
+          "verified": "4.6.7"
         }
       }
     ]
   },
   "compatibility": {
-    "minimum": "10.288",
-    "verified": "10.288"
+    "minimum": "10.291",
+    "verified": "10.291"
   }
 }
