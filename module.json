@@ -58,7 +58,7 @@
       "flags": {}
     },
     {
-      "label": "Jam and Jax NPC Rogue",
+      "label": "Jam and Jax NPC Rogues",
       "type": "Actor",
       "name": "rogue",
       "path": "/packs/rogue.db",
