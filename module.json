@@ -1,0 +1,114 @@
+{
+  "title": "Jam and Jax's NPC Index: Specialists",
+  "description": "Alchemist, Bard, Monk, and Rogue NPCs have arrived on the battlefield. Be sure to add the proper Jam and Jax ancestry feats to round out their abilities!",
+  "version": "0.1",
+  "packs": [
+    {
+      "label": "Jam and Jax NPC Alchemists",
+      "type": "Actor",
+      "name": "alchemist",
+      "path": "/packs/alchemist.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Jam and Jax NPC Alchemist Abilities",
+      "type": "Item",
+      "name": "alchemist-items",
+      "path": "/packs/alchemist-items.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Jam and Jax NPC Bards",
+      "type": "Actor",
+      "name": "bard",
+      "path": "/packs/bard.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Jam and Jax NPC Bard Abilities",
+      "type": "Item",
+      "name": "bard-items",
+      "path": "/packs/bard-items.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Jam and Jax NPC Monks",
+      "type": "Actor",
+      "name": "monk",
+      "path": "/packs/monk.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Jam and Jax NPC Monk Abilities",
+      "type": "Item",
+      "name": "monk-items",
+      "path": "/packs/monk-items.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Jam and Jax NPC Rogue",
+      "type": "Actor",
+      "name": "rogue",
+      "path": "/packs/rogue.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Jam and Jax NPC Rogue Abilities",
+      "type": "Item",
+      "name": "rogue-items",
+      "path": "/packs/rogue-items.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+	 {
+      "label": "Jam and Jax NPC Class DCs",
+      "type": "JournalEntry",
+      "name": "journals",
+      "path": "/packs/journals.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+"url": "https://github.com/Jax-PF2/spc1ist5",
+  "manifest": "https://raw.githubusercontent.com/Jax-PF2/spc1ist5/master/module.json",
+  "download": "https://github.com/Jax-PF2/spc1ist5/archive/refs/heads/main.zip",
+  "id": "jam-and-jax-undead-templates",
+  "authors": [
+    {
+      "name": "Jamzilla (Jamie Trollop) and Jax (Paul Steen)",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.3.4",
+          "verified": "4.3.4"
+        }
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "10.288",
+    "verified": "10.288"
+  }
+}
