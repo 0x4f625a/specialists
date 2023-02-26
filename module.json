@@ -1,7 +1,7 @@
 {
   "title": "Jam and Jax's NPC Index: Specialists",
   "description": "Alchemist, Bard, Monk, and Rogue NPCs have arrived on the battlefield. Be sure to add the proper Jam and Jax ancestry feats to round out their abilities!",
-  "version": "0.1",
+  "version": "0.99",
   "packs": [
     {
       "label": "Jam and Jax NPC Alchemists",
@@ -75,7 +75,7 @@
       "private": false,
       "flags": {}
     },
-	 {
+    {
       "label": "Jam and Jax NPC Class DCs",
       "type": "JournalEntry",
       "name": "journals",
@@ -85,7 +85,7 @@
       "flags": {}
     }
   ],
-"url": "https://github.com/Jax-PF2/spc1ist5",
+  "url": "https://github.com/Jax-PF2/spc1ist5",
   "manifest": "https://raw.githubusercontent.com/Jax-PF2/spc1ist5/master/module.json",
   "download": "https://github.com/Jax-PF2/spc1ist5/archive/refs/heads/main.zip",
   "id": "jam-and-jax-npc-specialists",
@@ -101,8 +101,8 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "4.6.7",
-          "verified": "4.6.7"
+          "minimum": "4.7.4",
+          "verified": "4.8.1"
         }
       }
     ]
