@@ -1,7 +1,7 @@
 {
   "title": "Jam and Jax's NPC Index: Specialists",
   "description": "Alchemist, Bard, Monk, and Rogue NPCs have arrived on the battlefield. Now with images and tokens!",
-  "version": "1.15",
+  "version": "1.16",
   "packs": [
     {
       "label": "Jam and Jax NPC Alchemists",
@@ -85,9 +85,9 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/Jax-PF2/spc1ist5",
-  "manifest": "https://raw.githubusercontent.com/Jax-PF2/spc1ist5/master/module.json",
-  "download": "https://github.com/Jax-PF2/spc1ist5/archive/refs/heads/main.zip",
+  "url": "https://github.com/0x4f625a/specialists",
+  "manifest": "https://raw.githubusercontent.com/0x4f625a/specialists/main/module.json",
+  "download": "https://github.com/0x4f625a/specialists/archive/refs/heads/main.zip",
   "id": "jam-and-jax-npc-specialists",
   "authors": [
     {
@@ -101,14 +101,14 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "7.2.3",
+          "minimum": "6.12.4",
           "verified": "7.2.3"
         }
       }
     ]
   },
   "compatibility": {
-    "minimum": "13.346",
+    "minimum": "12.328",
     "verified": "13.346"
   }
 }
